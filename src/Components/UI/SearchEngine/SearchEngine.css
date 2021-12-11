@@ -1,0 +1,13 @@
+.filter{
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.filter input{
+  width: 20vw;
+  padding: 10px;
+  border: 1px solid #a0f98c;
+  border-radius: 1rem;
+  outline: none;
+}

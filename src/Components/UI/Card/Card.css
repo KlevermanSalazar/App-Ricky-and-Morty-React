@@ -1,0 +1,22 @@
+.card{
+  margin: .5rem;
+  display: flex;
+  border-radius: 1rem;
+  background-color: #3c3e44;
+}
+.card__image{
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
+}
+h2, p{
+  color: #ffffff;
+}
+h2::selection{
+  background-color: #000000;
+  color: #ff9800;
+}
+p::selection{
+  background-color: #000000;
+  color: #ff9800;
+}
